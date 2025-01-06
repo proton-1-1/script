@@ -6,7 +6,7 @@
 # Author: 147611@proton.me
 # Copyright (c) 2025 proton-1-1 
 # https://github.com/proton-1-1/script
-# 
+# ver: 1.0
 # -----------
 
 ENV_FILE="$HOME/.env"
