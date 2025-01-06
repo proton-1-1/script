@@ -7,9 +7,6 @@
 # Copyright (c) 2025 proton-1-1 
 # https://github.com/proton-1-1/script
 # 
-# Zmiany wprowadził: Michał Tomczak
-# Data: 06.01.2024
-# Opis zmian: Dodano adnotację o licencji oraz zaktualizowano skrypt.
 # -----------
 
 ENV_FILE="$HOME/.env"
